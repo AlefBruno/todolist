@@ -1,0 +1,10 @@
+/Users/alefrodrigues/workspace/todolist/src/main/java/com/example/todolist/user/Controller/UserController.java
+/Users/alefrodrigues/workspace/todolist/src/main/java/com/example/todolist/TodolistApplication.java
+/Users/alefrodrigues/workspace/todolist/src/main/java/com/example/todolist/user/Model/UserModel.java
+/Users/alefrodrigues/workspace/todolist/src/main/java/com/example/todolist/task/TaskController.java
+/Users/alefrodrigues/workspace/todolist/src/main/java/com/example/todolist/utils/Utils.java
+/Users/alefrodrigues/workspace/todolist/src/main/java/com/example/todolist/task/TaskModel.java
+/Users/alefrodrigues/workspace/todolist/src/main/java/com/example/todolist/task/TaskRepository.java
+/Users/alefrodrigues/workspace/todolist/src/main/java/com/example/todolist/errors/ExceptionHandlerController.java
+/Users/alefrodrigues/workspace/todolist/src/main/java/com/example/todolist/user/Repository/UserRepository.java
+/Users/alefrodrigues/workspace/todolist/src/main/java/com/example/todolist/filter/FilterTaskAuth.java

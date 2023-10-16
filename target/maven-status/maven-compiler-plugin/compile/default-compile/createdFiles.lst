@@ -1,0 +1,10 @@
+com/example/todolist/task/TaskModel.class
+com/example/todolist/errors/ExceptionHandlerController.class
+com/example/todolist/utils/Utils.class
+com/example/todolist/user/Repository/UserRepository.class
+com/example/todolist/task/TaskController.class
+com/example/todolist/user/Controller/UserController.class
+com/example/todolist/filter/FilterTaskAuth.class
+com/example/todolist/user/Model/UserModel.class
+com/example/todolist/TodolistApplication.class
+com/example/todolist/task/TaskRepository.class
